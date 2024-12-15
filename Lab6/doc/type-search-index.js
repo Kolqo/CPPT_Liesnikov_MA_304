@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"LAB6","l":"LandPlot"},{"p":"LAB6","l":"LandPlotDriver"},{"p":"org.example","l":"Main"}];updateSearchResults();

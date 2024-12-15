@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"LAB2","l":"AudioPlayer"},{"p":"LAB2","l":"AudioPlayerDriver"},{"p":"LAB2","l":"Battery"},{"p":"LAB2","l":"Logger"},{"p":"org.example","l":"Main"},{"p":"LAB2","l":"Speaker"},{"p":"LAB2","l":"Track"}];updateSearchResults();

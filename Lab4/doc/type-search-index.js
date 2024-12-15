@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"LAB4","l":"EquationsApp"},{"p":"LAB4","l":"ExpressionCalculator"},{"p":"org.example","l":"Main"}];updateSearchResults();
